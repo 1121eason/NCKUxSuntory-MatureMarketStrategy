@@ -1,0 +1,28 @@
+{
+  "title": "Selected historical public aggregates for the Suntory case study",
+  "reviewed_on": "2026-10-28",
+  "scope": "Historical descriptive evidence; no current-market or causal claim",
+  "outlets": {
+    "metric": "Highball handling outlets as described in Suntory's retrospective account",
+    "unit": "outlets",
+    "source_id": "S3",
+    "source_url": "https://www.suntory.co.jp/recruit/media/articles/000009.html?ke=hd",
+    "observations": [
+      {"period": "2008 year-end", "value": 15000, "approximate": true},
+      {"period": "2009", "value": 60000, "approximate": true}
+    ],
+    "derived_ratio": 4.0,
+    "limitation": "Company retrospective; no independent outlet audit or precise 2009 cutoff supplied; not a measure of incremental profit"
+  },
+  "strong_zero": {
+    "period": "2013 full year",
+    "metric": "Sales volume relative to previous year",
+    "reported_percent_of_previous_year": 122,
+    "year_on_year_ratio": 1.22,
+    "derived_growth_percent": 22,
+    "source_id": "S5",
+    "source_url": "https://www.suntory.co.jp/company/financial/pdf/results_201312.pdf",
+    "pdf_page": 4,
+    "limitation": "Company-reported brand aggregate; not revenue or profit; not the isolated effect of DRY"
+  }
+}

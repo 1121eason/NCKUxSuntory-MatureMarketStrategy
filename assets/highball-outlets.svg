@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">Highball 取扱店數：2008 年末約 15,000 家，2009 年約 60,000 家</title>
+<desc id="desc">Suntory 企業回顧中的歷史通路指標。2009 年約為 2008 年末的 4 倍；原文未提供 2009 年精確統計截止日，不構成策略因果或獲利證據。</desc>
+<style>text {font-family:Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif}</style>
+<rect width="1200" height="560" rx="24" fill="#f8f6ef"/>
+<text x="48" y="58" font-size="16" font-weight="700" fill="#526466">HISTORICAL EVIDENCE / CHANNEL ADOPTION</text>
+<text x="48" y="108" font-size="32" font-weight="700" fill="#193638">Highball 的通路擴散</text>
+<text x="48" y="145" font-size="20" fill="#526466">指標：Highball 取扱店數（家）｜企業回顧所述約數</text>
+<line x1="270" y1="198" x2="270" y2="382" stroke="#526466"/>
+<text x="48" y="250" font-size="24" fill="#193638">2008 年末</text>
+<rect x="270" y="214" width="180" height="56" rx="5" fill="#8ebcbb"/>
+<text x="466" y="250" font-size="25" font-weight="700" fill="#193638">約 15,000 家</text>
+<text x="48" y="354" font-size="24" fill="#193638">2009 年</text>
+<rect x="270" y="318" width="720" height="56" rx="5" fill="#176668"/>
+<text x="1006" y="354" font-size="25" font-weight="700" fill="#193638">約 60,000 家</text>
+<line x1="270" y1="392" x2="990" y2="392" stroke="#c3cfca"/>
+<text x="270" y="418" font-size="16" text-anchor="middle" fill="#526466">0</text>
+<text x="450" y="418" font-size="16" text-anchor="middle" fill="#526466">15,000</text>
+<text x="630" y="418" font-size="16" text-anchor="middle" fill="#526466">30,000</text>
+<text x="810" y="418" font-size="16" text-anchor="middle" fill="#526466">45,000</text>
+<text x="990" y="418" font-size="16" text-anchor="middle" fill="#526466">60,000</text>
+<text x="48" y="472" font-size="20" font-weight="700" fill="#193638">約為原來 4 倍；反映通路採用，不能直接當作增量獲利。</text>
+<text x="48" y="510" font-size="15" fill="#526466">來源：Suntory「ハイボール復活！ ウイスキー市場革命の舞台裏」（S3）。完整定義見 data/README.md。</text>
+<text x="48" y="535" font-size="15" fill="#526466">原文未另載 2009 年精確統計截止日。本圖不呈現目前門店數，也不是市場占有率。</text>
+</svg>

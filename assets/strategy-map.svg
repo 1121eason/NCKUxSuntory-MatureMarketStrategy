@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Suntory：成熟市場的兩條產品策略</title>
+<desc id="desc">Highball 透過飲用情境與通路體驗重新活化市場；Strong Zero 透過產品組合與需求適配進行差異化。本圖為歷史個案的定性解讀。</desc>
+<style>text {font-family:Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif} .small{font-size:18px} .body{font-size:21px} .label{font-size:16px;font-weight:700;letter-spacing:1px}</style>
+<rect width="1200" height="700" rx="24" fill="#f8f6ef"/>
+<text x="48" y="60" font-size="16" font-weight="700" fill="#526466">INDUSTRY CASE STUDY / SUNTORY</text>
+<text x="48" y="110" font-size="34" font-weight="700" fill="#193638">成熟市場，從需求的差異中找到產品方向</text>
+<text x="48" y="146" font-size="20" fill="#526466">產業總量 → 品類與場合 → 消費者問題 → 產品與通路執行</text>
+<rect x="48" y="184" width="534" height="382" rx="18" fill="white" stroke="#e0e3dc"/>
+<rect x="48" y="184" width="534" height="8" rx="4" fill="#176668"/>
+<text x="76" y="226" class="label" fill="#176668">HIGHBALL</text>
+<text x="76" y="268" font-size="31" font-weight="700" fill="#193638">市場再活化</text>
+<text x="76" y="301" class="small" fill="#526466">既有威士忌，新的情境連結</text>
+<circle cx="90" cy="349" r="15" fill="#176668"/>
+<text x="90" y="355" text-anchor="middle" font-size="16" font-weight="700" fill="white">1</text>
+<text x="118" y="345" font-size="16" font-weight="700" fill="#176668">需求障礙</text>
+<text x="118" y="373" class="body" fill="#193638">形象、接觸機會、飲用體驗</text>
+<circle cx="90" cy="420" r="15" fill="#176668"/>
+<text x="90" y="426" text-anchor="middle" font-size="16" font-weight="700" fill="white">2</text>
+<text x="118" y="416" font-size="16" font-weight="700" fill="#176668">策略選擇</text>
+<text x="118" y="444" class="body" fill="#193638">重新定位與餐飲場景連結</text>
+<circle cx="90" cy="491" r="15" fill="#176668"/>
+<text x="90" y="497" text-anchor="middle" font-size="16" font-weight="700" fill="white">3</text>
+<text x="118" y="487" font-size="16" font-weight="700" fill="#176668">執行重點</text>
+<text x="118" y="515" class="body" fill="#193638">店家支援、體驗一致、零售延伸</text>
+<rect x="618" y="184" width="534" height="382" rx="18" fill="white" stroke="#e0e3dc"/>
+<rect x="618" y="184" width="534" height="8" rx="4" fill="#9b5c22"/>
+<text x="646" y="226" class="label" fill="#9b5c22">STRONG ZERO</text>
+<text x="646" y="268" font-size="31" font-weight="700" fill="#193638">差異化競爭</text>
+<text x="646" y="301" class="small" fill="#526466">既有競爭，尚未被滿足的需求</text>
+<circle cx="660" cy="349" r="15" fill="#9b5c22"/>
+<text x="660" y="355" text-anchor="middle" font-size="16" font-weight="700" fill="white">1</text>
+<text x="688" y="345" font-size="16" font-weight="700" fill="#9b5c22">需求缺口</text>
+<text x="688" y="373" class="body" fill="#193638">家飲、產品特徵、口味與餐食</text>
+<circle cx="660" cy="420" r="15" fill="#9b5c22"/>
+<text x="660" y="426" text-anchor="middle" font-size="16" font-weight="700" fill="white">2</text>
+<text x="688" y="416" font-size="16" font-weight="700" fill="#9b5c22">策略選擇</text>
+<text x="688" y="444" class="body" fill="#193638">產品組合與細分需求適配</text>
+<circle cx="660" cy="491" r="15" fill="#9b5c22"/>
+<text x="660" y="497" text-anchor="middle" font-size="16" font-weight="700" fill="white">3</text>
+<text x="688" y="487" font-size="16" font-weight="700" fill="#9b5c22">執行重點</text>
+<text x="688" y="515" class="body" fill="#193638">調配能力、口味擴展、持續回饋</text>
+<rect x="48" y="590" width="1104" height="58" rx="12" fill="#e7efea"/>
+<text x="72" y="626" font-size="21" font-weight="600" fill="#193638">共同課題：讓市場定位、產品能力與通路交付相互支援</text>
+<text x="48" y="678" font-size="15" fill="#526466">本圖為案例延伸分析；不表示效果大小、因果估計或目前市場狀況。</text>
+</svg>
